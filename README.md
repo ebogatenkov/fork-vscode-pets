@@ -88,4 +88,5 @@ Skeleton animations were adapted by [Chris Kent](https://github.com/thechriskent
 
 ## Thank you
 
-Thanks to all the [contributors](https://github.com/tonybaloney/vscode-pets/graphs/contributors) to this project. Test Test
+Thanks to all the [contributors](https://github.com/tonybaloney/vscode-pets/graphs/contributors) to this project. Test Test 
+Test Test
