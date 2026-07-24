@@ -19,3 +19,5 @@ pool:
 
 steps:
 - checkout: self
+  fetchDepth: 1
+  fetchTags: false
